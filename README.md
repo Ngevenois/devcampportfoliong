@@ -23,3 +23,18 @@ Things you may want to cover:
 
 * ...
 # devcampportfoliong
+
+>This is a Ruby on rails 5 app that allows stuff.
+
+### Features
+
+- Real time chat
+- Blog port
+- drag and drop
+
+### Code Example
+
+```javascript
+alert('hi there');
+```
+
